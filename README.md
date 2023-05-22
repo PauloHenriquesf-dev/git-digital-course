@@ -8,3 +8,4 @@
 
 ## Salvando alterações no Git(aula7: git push, remote, pull e featch)
 * comando git push
+* comando git pull (alteraç

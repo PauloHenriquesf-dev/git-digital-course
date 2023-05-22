@@ -9,3 +9,4 @@
 ## Salvando alterações no Git(aula7: git push, remote, pull e featch)
 * comando git push
 * comando git pull (alteracao pelo repositorio remoto)
+* comando git fetch (alteracao pelo repositorio remoto)
